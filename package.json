@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "wp-scripts start --output-path=dist --progress --hot"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^23.3.0"
+  }
+}
